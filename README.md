@@ -1,7 +1,7 @@
 # Celina El Sisi 👋
 
 🎓 **Étudiante en Ingénierie Informatique à l'ISTY (UVSQ / Paris-Saclay)** — Ex-MP2I/MPI  
-💻 **Passionnée de Développement Logiciel & IA**
+💻 **Passionnée de Développement Logiciel & IA**  
 📍 **Île-de-France** (À la recherche d'un stage de fin d'études de 6 mois à partir de septembre)
 
 ---
