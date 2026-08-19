@@ -8,7 +8,7 @@
 
 ## 🛠️ Compétences Techniques & Outils
 
-- **Langages :** C++, C, Java, Python, OCaml, JavaScript / TypeScript
+- **Langages :** C++, C, C#, Java, Python, OCaml, JavaScript / TypeScript
 - **Systèmes & Architecture :** POO, Gestion mémoire, System Calls, Analyse syntaxique/AST, Calcul parallèle (OpenMP, MPI)
 - **DevOps & Outils :** Git, GitHub/GitLab, Docker, Linux, CMake, Postman
 - **IA & Automatisation :** LLM, Systèmes multi-agents, n8n
