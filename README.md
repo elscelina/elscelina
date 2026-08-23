@@ -22,6 +22,11 @@
 - **Tech :** C++, POO, CMake
 - **Points clés :** Modélisation de la machine à états de l'entité (besoins, santé, faim, évolution), implémentation de la boucle de jeu (*game loop*) en temps réel/tour à tour et gestion de la persistance des données.
 
+### 💬 [Ask Mia - Chatbot Universitaire](./ask-mia)
+> **Assistant virtuel intelligent pour le soutien aux étudiants**
+- **Tech :** Python, Rasa, NLP, API REST, JavaScript
+- **Points clés :** Modélisation d'intents et d'entités avec Rasa NLU, gestion des flux de conversation (*dialogue management*), intégration à une interface web responsive et traitement des requêtes sur la vie universitaire.
+
 ### 🐯 [Compilateur Tiger (C++)](./tiger-compiler)
 > **Compilateur complet pour le langage Tiger**
 - **Tech :** C++17, Flex, Bison, CMake
