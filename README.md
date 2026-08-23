@@ -17,6 +17,11 @@
 
 ## 🚀 Projets Principaux
 
+### 👾 [Tamagotchi - Compagnon Virtuel (C++)](./tamagotchi-cpp)
+> **Simulation interactive de compagnon virtuel orientée objet**
+- **Tech :** C++, POO, CMake
+- **Points clés :** Modélisation de la machine à états de l'entité (besoins, santé, faim, évolution), implémentation de la boucle de jeu (*game loop*) en temps réel/tour à tour et gestion de la persistance des données.
+
 ### 🐯 [Compilateur Tiger (C++)](./tiger-compiler)
 > **Compilateur complet pour le langage Tiger**
 - **Tech :** C++17, Flex, Bison, CMake
